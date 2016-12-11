@@ -1,0 +1,3 @@
+To jest mój plik do nauki GUI.
+Wprowadzam do niego zmiany.
+
