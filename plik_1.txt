@@ -2,16 +2,18 @@ To jest mój plik do nauki GUI.
 Wprowadzam do niego zmiany.
 No i trzecia linijka powstała.
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+Lista imion w rodzinie:
+1 Gosia
+2 Kasia
+3 Maria
+4 Jan
+5 Anna
+6 Agnieszka
+7 Marek
+8 Janina
+9 Ola
+10 Oscar
+11 Loic
 
 Dodatkowa lista jeszcze o niewoadomej zawartości
 1
