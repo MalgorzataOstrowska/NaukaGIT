@@ -1,2 +1,0 @@
-To jest mój drugi plik do ćwiczeń GIT.
-A teraz coś do niego dopisałam, żeby przetestować działanie programu meld.

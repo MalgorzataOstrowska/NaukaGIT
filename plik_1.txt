@@ -15,11 +15,11 @@ Lista imion w rodzinie:
 10 Oscar
 11 Loic
 
-Dodatkowa lista jeszcze o niewoadomej zawartości
-1
-2
-3
-4
+Lista lubianych kolorów
+1 czerwony
+2 niebieski
+3 fioletowy
+4 
 5
 6
 7
